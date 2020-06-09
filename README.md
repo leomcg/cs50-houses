@@ -1,2 +1,2 @@
-# cs50-houses
-cs50's problem set 7
+# Description
+https://cs50.harvard.edu/x/2020/psets/7/houses/
